@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @DhirajChauhan40
+## 👋 Hi, I’m Dhiraj Chauhan 
 - 🌱 I’m currently doing my computer engineering ,in 2nd year(2021)
-- 💞️ I’m looking to collaborate on -- python projects or django projects , I will try to help :)
+- 💞️ I’m here to contribute more to Open source projects and to develop a good community :)
 - 📫 How to reach me -- You can mail me @chauhandhiraj40@gmail.com
 
 <!---
