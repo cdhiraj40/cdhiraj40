@@ -11,11 +11,11 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-[![Dhiraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhirajChauhan40&bg_color=172030&title_color=00FFFF&show_icons=true&hide_border=true&text_color=fff&icon_color=E0FFFF)](https://github.com/anuraghazra/github-readme-stats)
+[![Dhiraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhirajChauhan40&bg_color=172030&title_color=00FFFF&show_icons=true&hide_border=true&text_color=fff&icon_color=E0FFFF&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-![Dhiraj's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=DhirajChauhan40&theme=dark&hide_border=true&area=true&theme=dark)
+![Dhiraj's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=DhirajChauhan40)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhirajChauhan40&theme=dark&hide_border=true&area=true)](https://github.com/anuraghazra/github-readme-stats)
 
