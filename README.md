@@ -10,15 +10,21 @@ You can click the Preview link to take a look at your changes.
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=DhirajChauhan40.DhirajChauhan40&color=44CC11)
 
 ---
+### ⚙️ &nbsp;GitHub Analytics
 
-![Dhiraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhirajCHauhan40&show_icons=true&theme=dark)
-
+<p align="center">
+<a href="https://github.com/DhirajChauhan40">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DhirajCHauhan40&show_icons=true&theme=dark"/>
+<img height="180em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=DhirajChauhan40&theme=dark&hide_border=true&area=true"/>
+  </a>
+  </p>
 
 ---
 
 ![Dhiraj's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=DhirajChauhan40&theme=nord)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhirajChauhan40&theme=dark&hide_border=true&area=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 
 
