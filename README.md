@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 ### GitHub Analytics
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/DhirajChauhan40">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DhirajCHauhan40&show_icons=true&theme=dark"/>
 <img height="180em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=DhirajChauhan40&theme=dark&hide_border=true&area=true"/>
