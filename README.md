@@ -17,9 +17,9 @@ You can click the Preview link to take a look at your changes.
 
 ![Dhiraj's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=DhirajChauhan40&theme=dark&hide_border=true&area=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhirajChauhan40)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhirajChauhan40&theme=dark&hide_border=true&area=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Dhiraj's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DhirajChauhan40&theme=dark&hide_border=true&area=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <h3 align="left">CONNECT HERE: </h3>
