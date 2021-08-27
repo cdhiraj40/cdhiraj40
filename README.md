@@ -2,6 +2,7 @@
 - 🌱 I’m currently doing my computer engineering from Thakur College of Engineering (2nd year(2021))
 - 💞️ I’m here to contribute more to Open source projects and to develop a good community :)
 - 📫 How to reach me -- [Linkedin](https://www.linkedin.com/in/dhiraj-chauhan-655746210/),chauhandhiraj40@gmail.com
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 <!---
 DhirajChauhan40/DhirajChauhan40 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=DhirajChauhan40.DhirajChauhan40&color=44CC11)
 
 ---
-### ⚙️ &nbsp;GitHub Analytics
+### GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/DhirajChauhan40">
@@ -24,7 +25,6 @@ You can click the Preview link to take a look at your changes.
 ![Dhiraj's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=DhirajChauhan40&theme=nord)
 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 
 
