@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-![Dhiraj's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=DhirajChauhan40)
+![Dhiraj's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=DhirajChauhan40&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhirajChauhan40&theme=dark&hide_border=true&area=true)](https://github.com/anuraghazra/github-readme-stats)
 
