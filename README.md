@@ -13,13 +13,13 @@
 
 <p align="left">
 <a href="https://github.com/cdhiraj40">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cdhiraj40&show_icons=true&theme=dark"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=cdhiraj40&show_icons=true&theme=dark"/>
 <img height="180em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=cdhiraj40&theme=dark&hide_border=true&area=true"/>
   </a>
   </p>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-[![Dhiraj's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=cdhiraj40&theme=nord)]
+![Dhiraj's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=cdhiraj40&theme=nord)
 
 
 
