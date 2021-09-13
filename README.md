@@ -8,8 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There,+I'm+Dhiraj;+An+Open+Source+Enthusiast+☀;Android+Developer+💻;Loves+To+Build+And+Contribute+To+Projects+🛠;">
 </p>
 <hr>
-
-<hr>
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=cdhiraj40.cdhriaj40&color=44CC11)
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
