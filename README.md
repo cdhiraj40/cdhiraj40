@@ -1,8 +1,7 @@
 
 <hr>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Dhiraj;+An+Open+Source+Enthusiast+☀;An+Android+Developer+💻;
-            Loves+To+Build+And+Contributes+To+Projects+🛠;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+,+I'm+Dhiraj;+An+Open+Source+Enthusiast+☀;An+Android+Developer+💻;Loves+To+Build;And+Contributes+To+Projects+🛠;">
 </p>
 
 
