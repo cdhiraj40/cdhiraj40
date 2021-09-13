@@ -26,7 +26,6 @@
 ---
 
 ![Dhiraj's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=cdhiraj40&theme=nord)
-<p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=cdhiraj40&theme=nord" />
 
 
 
