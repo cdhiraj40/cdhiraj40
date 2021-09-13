@@ -3,7 +3,13 @@
 - 💞️ I’m here to contribute more to Open source projects and to develop a good community :)
 - 📫 How to reach me -- [Linkedin](https://www.linkedin.com/in/cdhiraj40/),chauhandhiraj40@gmail.com
 
+![banner.png](./images/github-banner.png)
+<hr>
 
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Aryaman;+An+Open+Source+Enthusiast+☀;Full+Stack+Web+Developer+💻;Loves+To+Build+Projects+🛠;A+Problem+Solver+🕵;">
+</p>
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
