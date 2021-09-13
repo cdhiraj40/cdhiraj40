@@ -1,9 +1,4 @@
- ## 👋 Hi, I’m Dhiraj Chauhan 
-- 🌱 I’m currently doing my computer engineering from Thakur College of Engineering (2nd year(2021))
-- 💞️ I’m here to contribute more to Open source projects and to develop a good community :)
-- 📫 How to reach me -- [Linkedin](https://www.linkedin.com/in/cdhiraj40/),chauhandhiraj40@gmail.com
 
-![banner.png](./images/github-banner.png)
 <hr>
 
 
