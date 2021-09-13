@@ -23,9 +23,9 @@
   </a>
   </p>
 
----
 
-![Dhiraj's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=cdhiraj40&theme=nord)
+
+[![Dhiraj's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=cdhiraj40&theme=nord)]
 
 
 
