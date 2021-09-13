@@ -10,9 +10,9 @@
 <hr>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<hr>
 
-
-###GitHub Analytics
+### GitHub Analytics
 
 <p align="left">
 <a href="https://github.com/cdhiraj40">
