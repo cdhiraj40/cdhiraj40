@@ -13,7 +13,7 @@
 
 <p align="left">
 <a href="https://github.com/cdhiraj40">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cdhiraj40&show_icons=true&theme=dark"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=cdhiraj40&show_icons=true&theme=dark"/>
 
  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
   </a>
