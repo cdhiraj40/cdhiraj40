@@ -7,10 +7,10 @@
 ## GitHub Analytics
 
 <p align="left">
-<a href="https://github.com/cdhiraj40">
+<!-- <a href="https://github.com/cdhiraj40">
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=cdhiraj40&show_icons=true&theme=dark"/>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-  <img height="240em" width="400" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=cdhiraj40&theme=dark&hide_border=true&area=true"/>
+  <img height="240em" width="400" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=cdhiraj40&theme=dark&hide_border=true&area=true"/> -->
   [![Dhiraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=cdhiraj40)](https://github.com/anuraghazra/github-readme-stats)
 
   </a>
