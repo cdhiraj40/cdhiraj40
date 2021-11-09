@@ -14,7 +14,7 @@
   </a>
   </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdhiraj40)](https://github.com/anuraghazra/github-readme-stats)
 ![Dhiraj's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=cdhiraj40&theme=nord)
 
 
