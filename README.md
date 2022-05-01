@@ -66,3 +66,5 @@
     <img alt="Solana" width="70" height="33"  src="https://images.financialexpress.com/2021/09/solana.png"/>
 </p>
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/cdhiraj40"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cdhiraj40" /></a></p><br><br>
