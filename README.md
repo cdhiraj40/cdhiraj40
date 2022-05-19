@@ -13,6 +13,8 @@
 </a>
 </p>
   
+<!-- <a href="https://app.daily.dev/cdhiraj40"><img src="https://api.daily.dev/devcards/831850f9224b46d18044040f08352679.png?r=cba" width="200" alt="Dhiraj Chauhan's Dev Card"/></a>   -->
+  
 <!-- ![Dhiraj's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=cdhiraj40&theme=nord)
  -->
 
