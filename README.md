@@ -49,6 +49,14 @@ Native Mobile App | Description | Tech Stack | Source Code | Live Demo
 | TODONIZER | A todo list application which makes your day productive. | Java, Room Database | [Repo](https://github.com/cdhiraj40/MENTIS-REM-HACKFIT-2021) | [App Link](https://github.com/cdhiraj40/TODONIZER/blob/main/app/release/TODONIZER.apk)
 | JOE-WOLFIE | A hotel application which provides two services- "Book a Room" and "Reserve a Table". | Java | [Repo](https://github.com/cdhiraj40/JOE-WOLFIE) | -
 
+Web Site | Front End | Source Code | Live Demo
+-------- | --------- | :-------: | :--:
+My portfolio | React.js, TS, HTML, CSS | Soon will be public | [Link](https://cdhiraj40.dev)
+Cerritus Coders | Next.js, TS, Tailwind CSS, HTML | [Repo](https://github.com/CerritusCodersComm/community-website) | [Link](https://cerritus-coders.vercel.app/)
+itsnotsoweird | HTML, CSS, JS | [Repo](https://github.com/cdhiraj40/itsnotsoweird)| [Link](https://itsnotsoweird.xyz/)
+
+
+
 ## GitHub Analytics:
 
 <p align="left">
