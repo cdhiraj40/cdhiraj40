@@ -5,7 +5,7 @@
 </p> -->
 # Hi, I'm Dhiraj Chauhan 👋
 
-###  About me
+###  About me:
 Hello! I'm Dhiraj, a third-year CS student from India, a software developer who likes to build stuff that makes a difference in the world.
 I usually work on **Android development**, **Web development**, and **Solana blockchain**.
 
@@ -20,14 +20,14 @@ I love to [speak](https://talks.cdhiraj40.dev/) and have conducted multiple sess
 - Co-founder of [Cerritus Coders](https://cerritus-coders.vercel.app/)
 <br/> <br/> You can connect with me via [links.cdhiraj40.dev](https://links.cdhiraj40.dev/)
 
-### Important Links
+### Important Links:
 - Portfolio: [cdhiraj40.dev](https://cdhiraj40.dev)
 - Talks: [talks.cdhiraj40.dev](https://talks.cdhiraj40.dev)
 - Projects: [projects.cdhiraj40.dev](https://projects.cdhiraj40.dev)
 - Resume: [resume.cdhiraj40.dev](https://resume.cdhiraj40.dev)
 - Blog: [blog.cdhiraj40.dev](https://blog.cdhiraj40.dev)
 
-### Skills
+### Skills:
 
 - **Mobile**: Android(Java & Kotlin)
 - **Web**: Next.js, React.js, HTML, CSS, JS
@@ -36,7 +36,7 @@ I love to [speak](https://talks.cdhiraj40.dev/) and have conducted multiple sess
 - **Databases**: Firebase(Cloud Firestore & The Realtime Database), MySQL
 - **Tools**: Git, Postman, Figma
 
-### Projects
+### Projects:
 
 Native Mobile App | Description | Tech Stack | Source Code | Live Demo
 ------- | --------- | -------- | :-------: | :--:
@@ -49,7 +49,7 @@ Native Mobile App | Description | Tech Stack | Source Code | Live Demo
 | TODONIZER | A todo list application which makes your day productive. | Java, Room Database | [Repo](https://github.com/cdhiraj40/MENTIS-REM-HACKFIT-2021) | [App Link](https://github.com/cdhiraj40/TODONIZER/blob/main/app/release/TODONIZER.apk)
 | JOE-WOLFIE | A hotel application which provides two services- "Book a Room" and "Reserve a Table". | Java | [Repo](https://github.com/cdhiraj40/JOE-WOLFIE) | -
 
-## GitHub Analytics
+## GitHub Analytics:
 
 <p align="left">
 <a href="https://github.com/cdhiraj40">
