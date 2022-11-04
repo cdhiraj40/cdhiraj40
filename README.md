@@ -49,6 +49,14 @@ Native Mobile App | Description | Tech Stack | Source Code | Live Demo
 | TODONIZER | A todo list application which makes your day productive. | Java, Room Database | [Repo](https://github.com/cdhiraj40/MENTIS-REM-HACKFIT-2021) | [App Link](https://github.com/cdhiraj40/TODONIZER/blob/main/app/release/TODONIZER.apk)
 | JOE-WOLFIE | A hotel application which provides two services- "Book a Room" and "Reserve a Table". | Java | [Repo](https://github.com/cdhiraj40/JOE-WOLFIE) | -
 
+Solana Dapps | Tech Stack | Smart Contract | Source Code | Live Demo
+-------- | -------- | :---------: | :-------: | :--:
+Solana Grants | Solana, Next.js, Typescript, Rust, [Arweave](https://www.arweave.org/) | [Link](https://github.com/solana-developers/solana-grants/tree/main/programs/grants-program) | [Repo](https://github.com/solana-developers/solana-grants) | [Link](https://solana-grants-nine.vercel.app/)
+Sol-Patreon | Solana, React.js, Typescript, Rust | [Link](https://github.com/cdhiraj40/Sol-Patreon/tree/main/program-rust) | [Repo](https://github.com/solana-developers/solana-grants) | -
+SolanaxLeetDroid | Solana, React.js, Typescript, Rust | [Link](https://github.com/cdhiraj40/SolanaxLeetDroid/tree/master/program-rust) | [Repo](https://github.com/cdhiraj40/SolanaxLeetDroid) | [Link](https://solanaxleetdroid-cdhiraj40.vercel.app/)
+
+
+
 Web Site | Front End | Source Code | Live Demo
 -------- | --------- | :-------: | :--:
 My portfolio | React.js, TS, HTML, CSS | Soon will be public | [Link](https://cdhiraj40.dev)
