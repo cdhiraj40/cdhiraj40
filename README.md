@@ -38,6 +38,10 @@ I love to [speak](https://talks.cdhiraj40.dev/) and have conducted multiple sess
 
 ### Projects:
 
+<!-- Native Mobile Apps -->
+<details>
+<summary><h3>Native Mobile Apps</h3></summary>
+
 Native Mobile App | Description | Tech Stack | Source Code | Live Demo
 ------- | --------- | -------- | :-------: | :--:
 | LeetDroid | LeetDroid is An android client for LeetCode. Project proposes one-stop for all leetcode work in Android to keep track of all your leetcode activities. | Kotlin, Firebase, Graph QL | [Repo](https://github.com/cdhiraj40/LeetDroid) | [Play store](https://play.google.com/store/apps/details?id=com.cdhiraj40.leetdroid)
@@ -48,22 +52,56 @@ Native Mobile App | Description | Tech Stack | Source Code | Live Demo
 | MENTIS-REM | Mentis Ram is an app solely built to help the mental health of the users. | Kotlin, Room Database | [Repo](https://github.com/cdhiraj40/MENTIS-REM-HACKFIT-2021) | -
 | TODONIZER | A todo list application which makes your day productive. | Java, Room Database | [Repo](https://github.com/cdhiraj40/MENTIS-REM-HACKFIT-2021) | [App Link](https://github.com/cdhiraj40/TODONIZER/blob/main/app/release/TODONIZER.apk)
 | JOE-WOLFIE | A hotel application which provides two services- "Book a Room" and "Reserve a Table". | Java | [Repo](https://github.com/cdhiraj40/JOE-WOLFIE) | -
+</details>
+
+
+<!-- Solana Dapps -->
+<details>
+<summary><h3>Solana Dapps</h3></summary>
 
 Solana Dapps | Tech Stack | Smart Contract | Source Code | Live Demo
 -------- | -------- | :---------: | :-------: | :--:
 Solana Grants | Solana, Next.js, Typescript, Rust, [Arweave](https://www.arweave.org/) | [Link](https://github.com/solana-developers/solana-grants/tree/main/programs/grants-program) | [Repo](https://github.com/solana-developers/solana-grants) | [Link](https://solana-grants-nine.vercel.app/)
 Sol-Patreon | Solana, React.js, Typescript, Rust | [Link](https://github.com/cdhiraj40/Sol-Patreon/tree/main/program-rust) | [Repo](https://github.com/solana-developers/solana-grants) | -
 SolanaxLeetDroid | Solana, React.js, Typescript, Rust | [Link](https://github.com/cdhiraj40/SolanaxLeetDroid/tree/master/program-rust) | [Repo](https://github.com/cdhiraj40/SolanaxLeetDroid) | [Link](https://solanaxleetdroid-cdhiraj40.vercel.app/)
+</details>
 
+<!-- Websites -->
 
+<details>
+<summary><h3>Websites</h3></summary>
 
 Web Site | Front End | Source Code | Live Demo
 -------- | --------- | :-------: | :--:
 My portfolio | React.js, TS, HTML, CSS | Soon will be public | [Link](https://cdhiraj40.dev)
 Cerritus Coders | Next.js, TS, Tailwind CSS, HTML | [Repo](https://github.com/CerritusCodersComm/community-website) | [Link](https://cerritus-coders.vercel.app/)
 itsnotsoweird | HTML, CSS, JS | [Repo](https://github.com/cdhiraj40/itsnotsoweird)| [Link](https://itsnotsoweird.xyz/)
+</details>
+
+<!-- Python Bots -->
+
+<details>
+<summary><h3>Python Bots</h3></summary>
+
+Python Bots | Description | Tech Stack | Source Code
+-------- | -------- | --------- | :-------: |
+MEME Rasa Bot | A bot made for absolute fun. It can create memes.. | Python. [Rasa](https://rasa.com/docs/rasa/) | [Repo](https://github.com/cdhiraj40/Meme-Rasa-Bot)
+MAD LIBS BOT | We all use discord every day, ever wondered how can you have fun with it in minutes? this bot will make you :) when the days would be rough :/ It basically provide you funny phrases with your given own inputs. | Python | [Repo](https://github.com/cdhiraj40/Mad-Libs-bot)
+PoggerBot | A bot that I came up with, simply for the sole purpose of improving my skills in programming. It does a few fun things and is just designed to be a fun bot that you can play around with. | Python | [Repo](https://github.com/cdhiraj40/PoggerBot)
+</details>
 
 
+<!-- Documentation -->
+
+<details>
+<summary><h3>Documentation</h3></summary>
+
+Documentation | Front End | Live Demo | Source Code
+-------- | -------- | :---------: | :-------: |
+| My talks | Jekyll | Soon to be updated | Soon to be updated
+| My blogs | Jekyll | Soon to be updated | Soon to be updated
+| LCM INSTALL | - | - | [Link](https://github.com/cdhiraj40/LCM-INSTALL)
+</details>
 
 ## GitHub Analytics:
 
