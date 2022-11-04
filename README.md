@@ -18,7 +18,7 @@ I love to [speak](https://talks.cdhiraj40.dev/) and have conducted multiple sess
 - MLH Fellow Summer'22 at **[Solana Labs](https://github.com/solana-labs)**. See the [project](https://github.com/solana-developers/solana-grants/)
 - A [GitHub Campus Expert](https://githubcampus.expert/cdhiraj40/).
 - Co-founder of [Cerritus Coders](https://cerritus-coders.vercel.app/)
-<br/> <br/> You can connect with me via [links.cdhiraj40.dev](https://links.cdhiraj40.dev/)
+<br/> <br/> You can connect with me: [links.cdhiraj40.dev](https://links.cdhiraj40.dev/)
 
 ### Important Links:
 - Portfolio: [cdhiraj40.dev](https://cdhiraj40.dev)
