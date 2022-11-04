@@ -1,8 +1,53 @@
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=cdhiraj40.cdhriaj40&color=44CC11)
-<hr>
-<p align="center">
+<!-- ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=cdhiraj40.cdhriaj40&color=44CC11) -->
+<!-- <hr> -->
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+,+I'm+Dhiraj;+An+Open+Source+Enthusiast+☀;An+Android+Developer+💻;Loves+To+Build;And+Contribute+To+Projects+🛠;">
-</p>
+</p> -->
+# Hi, I'm Dhiraj Chauhan 👋
+
+###  About me
+Hello! I'm Dhiraj, a third-year CS student from India, a software developer who likes to build stuff that makes a difference in the world.
+I usually work on **Android development**, **Web development**, and **Solana blockchain**.
+
+I believe in public learning, and I am constantly eager to learn new things and enjoy sharing what I have learned with others. I love interacting with folks and helping community members is what I like to do daily.
+
+I love to [speak](https://talks.cdhiraj40.dev/) and have conducted multiple sessions to encourage and mentor students toward **programming**, **open source**, and **building tech communities**.
+
+
+- **[Google Summer of Code Student](https://summerofcode.withgoogle.com/programs/2022/projects/xXN12jAU)** at [52°North](https://github.com/52North/). See the [project](https://github.com/enviroCar/enviroCar-app)
+- MLH Fellow Summer'22 at **[Solana Labs](https://github.com/solana-labs)**. See the [project](https://github.com/solana-developers/solana-grants/)
+- A [GitHub Campus Expert](https://githubcampus.expert/cdhiraj40/).
+- Co-founder of [Cerritus Coders](https://cerritus-coders.vercel.app/)
+<br/> <br/> You can connect with me via [links.cdhiraj40.dev](https://links.cdhiraj40.dev/)
+
+### Important Links
+- Portfolio: [cdhiraj40.dev](https://cdhiraj40.dev)
+- Talks: [talks.cdhiraj40.dev](https://talks.cdhiraj40.dev)
+- Projects: [projects.cdhiraj40.dev](https://projects.cdhiraj40.dev)
+- Resume: [resume.cdhiraj40.dev](https://resume.cdhiraj40.dev)
+- Blog: [blog.cdhiraj40.dev](https://blog.cdhiraj40.dev)
+
+### Skills
+
+- **Mobile**: Android(Java & Kotlin)
+- **Web**: Next.js, React.js, HTML, CSS, JS
+- **Blockchain**: Solana
+- **Languages**: Kotlin, Java, Rust, JavaScript, TypeScript, Python, C/C++
+- **Databases**: Firebase(Cloud Firestore & The Realtime Database), MySQL
+- **Tools**: Git, Postman, Figma
+
+### Projects
+
+Native Mobile App | Description | Tech Stack | Source Code | Live Demo
+------- | --------- | -------- | :-------: | :--:
+| LeetDroid | LeetDroid is An android client for LeetCode. Project proposes one-stop for all leetcode work in Android to keep track of all your leetcode activities. | Kotlin, Firebase, Graph QL | [Repo](https://github.com/cdhiraj40/LeetDroid) | [Play store](https://play.google.com/store/apps/details?id=com.cdhiraj40.leetdroid)
+| eduJam | eduJam is a university app, which will help you with all of your university work* | Kotlin, Firebase, Room Database | [Repo](https://github.com/CerritusCodersComm/edujam) | [App Link](https://github.com/CerritusCodersComm/eduJam/blob/main/app/release/app-release.apk)
+| AI-TodoList | A todo list application working with voice commands to add, update and delete tasks. | Kotlin, [Alan AI](https://alan.app/) | [Repo](https://github.com/cdhiraj40/AI-TodoList/) | -
+| voice command android | A simple voice command bot with voice triggers made using aimybox, kaldi speechkit and vosk | Kotlin, [Aimybox](https://github.com/just-ai/aimybox-android-sdk/), [Kaldi Speechkit](https://github.com/just-ai/aimybox-android-sdk/tree/master/kaldi-speechkit) and [vosk](https://github.com/alphacep/vosk) | [Repo](https://github.com/CerritusCodersComm/edujam) | -
+| NutriFit | NutriFit is a food tracking app, which will let you track your food intake. Unlike other food tracking app, NutriFit is free and open source. | Java, Firebase, Room Database | [Repo](https://github.com/anamansari062/Nutrifit) | -
+| MENTIS-REM | Mentis Ram is an app solely built to help the mental health of the users. | Kotlin, Room Database | [Repo](https://github.com/cdhiraj40/MENTIS-REM-HACKFIT-2021) | -
+| TODONIZER | A todo list application which makes your day productive. | Java, Room Database | [Repo](https://github.com/cdhiraj40/MENTIS-REM-HACKFIT-2021) | [App Link](https://github.com/cdhiraj40/TODONIZER/blob/main/app/release/TODONIZER.apk)
+| JOE-WOLFIE | A hotel application which provides two services- "Book a Room" and "Reserve a Table". | Java | [Repo](https://github.com/cdhiraj40/JOE-WOLFIE) | -
 
 ## GitHub Analytics
 
@@ -13,60 +58,5 @@
 </a>
 </p>
   
-<!-- <a href="https://app.daily.dev/cdhiraj40"><img src="https://api.daily.dev/devcards/831850f9224b46d18044040f08352679.png?r=cba" width="200" alt="Dhiraj Chauhan's Dev Card"/></a>   -->
-  
-<!-- ![Dhiraj's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=cdhiraj40&theme=nord)
- -->
-
-<h3 align="left">Feel free to connect with me: </h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/cdhiraj40/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.twitter.com/cdhiraj40/" target="blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="mailto:chauhandhiraj40@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.youtube.com/channel/UCTSqyTvuLkxlTZhxs84djbA">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-<a href="https://www.twitch.tv/thefunnyintrovert">
-  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
-</a>
-<a href="https://discord.gg/fKakn9kk39">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-</p>
-<br>
-
-<h3 align="left">Languges: </h3>
-<p align="left">
-<i class="programming lang"></i>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img src="	https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-</p>
-
-<h3 align="left">Technologies: </h3>
-<p align="left">
-  
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>  
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-	<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-    <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-    <img alt="GitLab" src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-    <img alt="Solana" width="70" height="33"  src="https://images.financialexpress.com/2021/09/solana.png"/>
-</p>
-
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/cdhiraj40"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cdhiraj40" /></a></p><br><br>
