@@ -25,7 +25,7 @@ I love to [speak](https://talks.cdhiraj40.dev/) and have conducted multiple sess
 - Talks: [talks.cdhiraj40.dev](https://talks.cdhiraj40.dev)
 - Projects: [projects.cdhiraj40.dev](https://projects.cdhiraj40.dev)
 - Resume: [resume.cdhiraj40.dev](https://resume.cdhiraj40.dev)
-- Blog: [blog.cdhiraj40.dev](https://blog.cdhiraj40.dev)
+- Blog: [blogs.cdhiraj40.dev](https://blogs.cdhiraj40.dev)
 
 ### Skills:
 
