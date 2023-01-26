@@ -98,19 +98,10 @@ PoggerBot | A bot that I came up with, simply for the sole purpose of improving 
 
 Documentation | Front End | Live Demo | Source Code
 -------- | -------- | :---------: | :-------: |
-| My talks | Jekyll | Soon to be updated | Soon to be updated
-| My blogs | Jekyll | Soon to be updated | Soon to be updated
+| My talks | Jekyll | [talks.cdhiraj40.dev](http://talks.cdhiraj40.dev/) | Soon to be updated
+| My blogs | Jekyll | [blogs.cdhiraj40.dev](https://blogs.cdhiraj40.dev/) | Soon to be updated
 | LCM INSTALL | - | - | [Link](https://github.com/cdhiraj40/LCM-INSTALL)
 </details>
-
-## GitHub Analytics:
-
-<p align="left">
-<a href="https://github.com/cdhiraj40">
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=cdhiraj40&show_icons=true&theme=dark"/>
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-</a>
-</p>
   
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/cdhiraj40"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cdhiraj40" /></a></p><br><br>
