@@ -102,6 +102,14 @@ Documentation | Front End | Live Demo | Source Code
 | My blogs | Jekyll | [blogs.cdhiraj40.dev](https://blogs.cdhiraj40.dev/) | Soon to be updated
 | LCM INSTALL | - | - | [Link](https://github.com/cdhiraj40/LCM-INSTALL)
 </details>
+
+## Recent Activity
+
+This is a list of my most recent activity on GitHub.
+
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
   
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/cdhiraj40"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cdhiraj40" /></a></p><br><br>
