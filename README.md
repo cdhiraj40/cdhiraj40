@@ -108,15 +108,15 @@ Documentation | Front End | Live Demo | Source Code
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [cdhiraj40/LeetDroid](https://github.com/cdhiraj40/LeetDroid)<br>
-2. ❗️ Opened issue [#92](https://github.com/ironforge-cloud/soldev-ui/issues/92) in [ironforge-cloud/soldev-ui](https://github.com/ironforge-cloud/soldev-ui)<br>
-3. ✔️ Closed issue [#74](https://github.com/ironforge-cloud/soldev-ui/issues/74) in [ironforge-cloud/soldev-ui](https://github.com/ironforge-cloud/soldev-ui)<br>
-4. ⬆️ Pushed 15 commit(s) to [cdhiraj40/soldev-ui](https://github.com/cdhiraj40/soldev-ui)<br>
-5. ⬆️ Pushed 2 commit(s) to [ironforge-cloud/soldev-ui](https://github.com/ironforge-cloud/soldev-ui)<br>
+1. ⭐ Starred [slidevjs/slidev](https://github.com/slidevjs/slidev)<br>
+2. ⬆️ Pushed 1 commit(s) to [cdhiraj40/LeetDroid](https://github.com/cdhiraj40/LeetDroid)<br>
+3. ❗️ Opened issue [#92](https://github.com/ironforge-cloud/soldev-ui/issues/92) in [ironforge-cloud/soldev-ui](https://github.com/ironforge-cloud/soldev-ui)<br>
+4. ✔️ Closed issue [#74](https://github.com/ironforge-cloud/soldev-ui/issues/74) in [ironforge-cloud/soldev-ui](https://github.com/ironforge-cloud/soldev-ui)<br>
+5. ⬆️ Pushed 15 commit(s) to [cdhiraj40/soldev-ui](https://github.com/cdhiraj40/soldev-ui)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 10th, 2023, 8:22:41 AM (GMT)
+Last Updated: Friday, February 10th, 2023, 8:41:20 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
   
 <h3 align="left">Support:</h3>
