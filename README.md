@@ -108,15 +108,15 @@ Documentation | Front End | Live Demo | Source Code
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [roldanjr/pomatez](https://github.com/roldanjr/pomatez)<br>
-2. ⭐ Starred [slidevjs/slidev](https://github.com/slidevjs/slidev)<br>
-3. ⬆️ Pushed 1 commit(s) to [cdhiraj40/LeetDroid](https://github.com/cdhiraj40/LeetDroid)<br>
-4. ❗️ Opened issue [#92](https://github.com/ironforge-cloud/soldev-ui/issues/92) in [ironforge-cloud/soldev-ui](https://github.com/ironforge-cloud/soldev-ui)<br>
-5. ✔️ Closed issue [#74](https://github.com/ironforge-cloud/soldev-ui/issues/74) in [ironforge-cloud/soldev-ui](https://github.com/ironforge-cloud/soldev-ui)<br>
+1. ⭐ Starred [solana-mobile/mobile-wallet-adapter](https://github.com/solana-mobile/mobile-wallet-adapter)<br>
+2. ⭐ Starred [roldanjr/pomatez](https://github.com/roldanjr/pomatez)<br>
+3. ⭐ Starred [slidevjs/slidev](https://github.com/slidevjs/slidev)<br>
+4. ⬆️ Pushed 1 commit(s) to [cdhiraj40/LeetDroid](https://github.com/cdhiraj40/LeetDroid)<br>
+5. ❗️ Opened issue [#92](https://github.com/ironforge-cloud/soldev-ui/issues/92) in [ironforge-cloud/soldev-ui](https://github.com/ironforge-cloud/soldev-ui)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, February 21st, 2023, 5:37:02 PM (GMT)
+Last Updated: Tuesday, February 21st, 2023, 6:22:20 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
   
 <h3 align="left">Support:</h3>
