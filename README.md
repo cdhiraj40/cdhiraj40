@@ -108,15 +108,15 @@ Documentation | Front End | Live Demo | Source Code
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#23](https://github.com/cdhiraj40/LeetDroid/pull/23) in [cdhiraj40/LeetDroid](https://github.com/cdhiraj40/LeetDroid)<br>
-2. ⬆️ Pushed 53 commit(s) to [cdhiraj40/LeetDroid](https://github.com/cdhiraj40/LeetDroid)<br>
-3. 💪 Opened PR [#23](https://github.com/cdhiraj40/LeetDroid/pull/23) in [cdhiraj40/LeetDroid](https://github.com/cdhiraj40/LeetDroid)<br>
-4. ⬆️ Pushed 3 commit(s) to [cdhiraj40/LeetDroid](https://github.com/cdhiraj40/LeetDroid)<br>
-5. ✔️ Closed issue [#6](https://github.com/cdhiraj40/LeetDroid/issues/6) in [cdhiraj40/LeetDroid](https://github.com/cdhiraj40/LeetDroid)<br>
+1. ⭐ Starred [metaplex-foundation/SolanaKT](https://github.com/metaplex-foundation/SolanaKT)<br>
+2. 🎉 Merged PR [#23](https://github.com/cdhiraj40/LeetDroid/pull/23) in [cdhiraj40/LeetDroid](https://github.com/cdhiraj40/LeetDroid)<br>
+3. ⬆️ Pushed 53 commit(s) to [cdhiraj40/LeetDroid](https://github.com/cdhiraj40/LeetDroid)<br>
+4. 💪 Opened PR [#23](https://github.com/cdhiraj40/LeetDroid/pull/23) in [cdhiraj40/LeetDroid](https://github.com/cdhiraj40/LeetDroid)<br>
+5. ⬆️ Pushed 3 commit(s) to [cdhiraj40/LeetDroid](https://github.com/cdhiraj40/LeetDroid)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, March 4th, 2023, 6:40:45 AM (GMT)
+Last Updated: Saturday, March 4th, 2023, 7:15:29 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
   
 <h3 align="left">Support:</h3>
