@@ -39,8 +39,9 @@ I love to [speak](https://talks.cdhiraj40.dev/) and have conducted multiple sess
 ### Projects:
 
 <!-- Native Mobile Apps -->
+
 <details>
-<summary><h3>Native Mobile Apps</h3></summary>
+<summary>Native Mobile Apps</summary>
 
 Native Mobile App | Description | Tech Stack | Source Code | Live Demo
 ------- | --------- | -------- | :-------: | :--:
@@ -56,8 +57,9 @@ Native Mobile App | Description | Tech Stack | Source Code | Live Demo
 
 
 <!-- Solana Dapps -->
+
 <details>
-<summary><h3>Solana Dapps</h3></summary>
+<summary>Solana Dapps</summary>
 
 Solana Dapps | Tech Stack | Smart Contract | Source Code | Live Demo
 -------- | -------- | :---------: | :-------: | :--:
@@ -69,7 +71,7 @@ SolanaxLeetDroid | Solana, React.js, Typescript, Rust | [Link](https://github.co
 <!-- Websites -->
 
 <details>
-<summary><h3>Websites</h3></summary>
+<summary>Websites</summary>
 
 Web Site | Front End | Source Code | Live Demo
 -------- | --------- | :-------: | :--:
@@ -81,7 +83,7 @@ itsnotsoweird | HTML, CSS, JS | [Repo](https://github.com/cdhiraj40/itsnotsoweir
 <!-- Python Bots -->
 
 <details>
-<summary><h3>Python Bots</h3></summary>
+<summary>Python Bots</summary>
 
 Python Bots | Description | Tech Stack | Source Code
 -------- | -------- | --------- | :-------: |
@@ -94,7 +96,7 @@ PoggerBot | A bot that I came up with, simply for the sole purpose of improving 
 <!-- Documentation -->
 
 <details>
-<summary><h3>Documentation</h3></summary>
+<summary>Documentation</summary>
 
 Documentation | Front End | Live Demo | Source Code
 -------- | -------- | :---------: | :-------: |
