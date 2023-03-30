@@ -110,15 +110,15 @@ Documentation | Front End | Live Demo | Source Code
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [SAGAnize/Connect](https://github.com/SAGAnize/Connect)<br>
+1. ⭐ Starred [SAGAnize/Connect](https://github.com/SAGAnize/Connect)<br>
 2. ⬆️ Pushed 1 commit(s) to [SAGAnize/Connect](https://github.com/SAGAnize/Connect)<br>
-3. 💪 Opened PR [#205](https://github.com/Unboxed-Software/solana-course/pull/205) in [Unboxed-Software/solana-course](https://github.com/Unboxed-Software/solana-course)<br>
-4. ❌ Closed PR [#204](https://github.com/Unboxed-Software/solana-course/pull/204) in [Unboxed-Software/solana-course](https://github.com/Unboxed-Software/solana-course)<br>
-5. 💪 Opened PR [#204](https://github.com/Unboxed-Software/solana-course/pull/204) in [Unboxed-Software/solana-course](https://github.com/Unboxed-Software/solana-course)<br>
+3. ⬆️ Pushed 1 commit(s) to [SAGAnize/Connect](https://github.com/SAGAnize/Connect)<br>
+4. ⬆️ Pushed 1 commit(s) to [SAGAnize/Connect](https://github.com/SAGAnize/Connect)<br>
+5. 💪 Opened PR [#205](https://github.com/Unboxed-Software/solana-course/pull/205) in [Unboxed-Software/solana-course](https://github.com/Unboxed-Software/solana-course)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, March 30th, 2023, 10:37:02 PM (GMT)
+Last Updated: Thursday, March 30th, 2023, 11:16:53 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
   
 <h3 align="left">Support:</h3>
