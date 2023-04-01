@@ -110,15 +110,15 @@ Documentation | Front End | Live Demo | Source Code
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [SAGAnize/Connect](https://github.com/SAGAnize/Connect)<br>
-2. ⬆️ Pushed 1 commit(s) to [SAGAnize/Connect](https://github.com/SAGAnize/Connect)<br>
-3. ⬆️ Pushed 1 commit(s) to [SAGAnize/Connect](https://github.com/SAGAnize/Connect)<br>
+1. 💪 Opened PR [#7](https://github.com/SAGAnize/SAGAnize/pull/7) in [SAGAnize/SAGAnize](https://github.com/SAGAnize/SAGAnize)<br>
+2. 💪 Opened PR [#6](https://github.com/SAGAnize/SAGAnize/pull/6) in [SAGAnize/SAGAnize](https://github.com/SAGAnize/SAGAnize)<br>
+3. ⭐ Starred [SAGAnize/Connect](https://github.com/SAGAnize/Connect)<br>
 4. ⬆️ Pushed 1 commit(s) to [SAGAnize/Connect](https://github.com/SAGAnize/Connect)<br>
-5. 💪 Opened PR [#205](https://github.com/Unboxed-Software/solana-course/pull/205) in [Unboxed-Software/solana-course](https://github.com/Unboxed-Software/solana-course)<br>
+5. ⬆️ Pushed 1 commit(s) to [SAGAnize/Connect](https://github.com/SAGAnize/Connect)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, April 1st, 2023, 12:51:00 PM (GMT)
+Last Updated: Saturday, April 1st, 2023, 1:16:40 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
   
 <h3 align="left">Support:</h3>
