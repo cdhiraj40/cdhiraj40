@@ -110,15 +110,15 @@ Documentation | Front End | Live Demo | Source Code
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#8](https://github.com/SAGAnize/SAGAnize/pull/8) in [SAGAnize/SAGAnize](https://github.com/SAGAnize/SAGAnize)<br>
-2. ⬆️ Pushed 1 commit(s) to [SAGAnize/SAGAnize](https://github.com/SAGAnize/SAGAnize)<br>
-3. ⬆️ Pushed 1 commit(s) to [SAGAnize/SAGAnize](https://github.com/SAGAnize/SAGAnize)<br>
+1. ⬆️ Pushed 3 commit(s) to [SAGAnize/SAGAnize](https://github.com/SAGAnize/SAGAnize)<br>
+2. 🎉 Merged PR [#8](https://github.com/SAGAnize/SAGAnize/pull/8) in [SAGAnize/SAGAnize](https://github.com/SAGAnize/SAGAnize)<br>
+3. ⬆️ Pushed 1 commit(s) to [DSC-TCET/gdsc-tcet-website](https://github.com/DSC-TCET/gdsc-tcet-website)<br>
 4. ⬆️ Pushed 1 commit(s) to [SAGAnize/SAGAnize](https://github.com/SAGAnize/SAGAnize)<br>
-5. ⬆️ Pushed 1 commit(s) to [SAGAnize/SAGAnize](https://github.com/SAGAnize/SAGAnize)<br>
+5. ⬆️ Pushed 9 commit(s) to [SAGAnize/SAGAnize](https://github.com/SAGAnize/SAGAnize)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, April 2nd, 2023, 12:51:35 PM (GMT)
+Last Updated: Sunday, April 2nd, 2023, 1:16:54 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
   
 <h3 align="left">Support:</h3>
