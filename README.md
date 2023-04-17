@@ -110,15 +110,15 @@ Documentation | Front End | Live Demo | Source Code
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [cdhiraj40/mobile-dapp-scaffold](https://github.com/cdhiraj40/mobile-dapp-scaffold)<br>
-2. ⭐ Starred [cdhiraj40/mobile-dapp-scaffold](https://github.com/cdhiraj40/mobile-dapp-scaffold)<br>
-3. ⬆️ Pushed 1 commit(s) to [cdhiraj40/mobile-dapp-scaffold](https://github.com/cdhiraj40/mobile-dapp-scaffold)<br>
-4. ⭐ Starred [calcom/cal.com](https://github.com/calcom/cal.com)<br>
-5. ⭐ Starred [solana-labs/dapp-scaffold](https://github.com/solana-labs/dapp-scaffold)<br>
+1. ❗️ Opened issue [#3](https://github.com/cdhiraj40/mobile-dapp-scaffold/issues/3) in [cdhiraj40/mobile-dapp-scaffold](https://github.com/cdhiraj40/mobile-dapp-scaffold)<br>
+2. ❗️ Opened issue [#2](https://github.com/cdhiraj40/mobile-dapp-scaffold/issues/2) in [cdhiraj40/mobile-dapp-scaffold](https://github.com/cdhiraj40/mobile-dapp-scaffold)<br>
+3. ❗️ Opened issue [#1](https://github.com/cdhiraj40/mobile-dapp-scaffold/issues/1) in [cdhiraj40/mobile-dapp-scaffold](https://github.com/cdhiraj40/mobile-dapp-scaffold)<br>
+4. ⬆️ Pushed 1 commit(s) to [cdhiraj40/mobile-dapp-scaffold](https://github.com/cdhiraj40/mobile-dapp-scaffold)<br>
+5. ⬆️ Pushed 1 commit(s) to [cdhiraj40/mobile-dapp-scaffold](https://github.com/cdhiraj40/mobile-dapp-scaffold)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 17th, 2023, 9:36:53 PM (GMT)
+Last Updated: Monday, April 17th, 2023, 10:14:46 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
   
 <h3 align="left">Support:</h3>
