@@ -110,15 +110,15 @@ Documentation | Front End | Live Demo | Source Code
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [cdhiraj40/mobile-dapp-scaffold](https://github.com/cdhiraj40/mobile-dapp-scaffold)<br>
-2. ✔️ Closed issue [#3](https://github.com/cdhiraj40/mobile-dapp-scaffold/issues/3) in [cdhiraj40/mobile-dapp-scaffold](https://github.com/cdhiraj40/mobile-dapp-scaffold)<br>
-3. ⬆️ Pushed 1 commit(s) to [cdhiraj40/mobile-dapp-scaffold](https://github.com/cdhiraj40/mobile-dapp-scaffold)<br>
-4. 🎉 Merged PR [#4](https://github.com/cdhiraj40/mobile-dapp-scaffold/pull/4) in [cdhiraj40/mobile-dapp-scaffold](https://github.com/cdhiraj40/mobile-dapp-scaffold)<br>
-5. 👍 Approved [#4](https://github.com/cdhiraj40/mobile-dapp-scaffold/pull/4#pullrequestreview-1391307483) in [cdhiraj40/mobile-dapp-scaffold](https://github.com/cdhiraj40/mobile-dapp-scaffold)<br>
+1. ⭐ Starred [exelban/stats](https://github.com/exelban/stats)<br>
+2. ⬆️ Pushed 2 commit(s) to [cdhiraj40/mobile-dapp-scaffold](https://github.com/cdhiraj40/mobile-dapp-scaffold)<br>
+3. ✔️ Closed issue [#3](https://github.com/cdhiraj40/mobile-dapp-scaffold/issues/3) in [cdhiraj40/mobile-dapp-scaffold](https://github.com/cdhiraj40/mobile-dapp-scaffold)<br>
+4. ⬆️ Pushed 1 commit(s) to [cdhiraj40/mobile-dapp-scaffold](https://github.com/cdhiraj40/mobile-dapp-scaffold)<br>
+5. 🎉 Merged PR [#4](https://github.com/cdhiraj40/mobile-dapp-scaffold/pull/4) in [cdhiraj40/mobile-dapp-scaffold](https://github.com/cdhiraj40/mobile-dapp-scaffold)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 24th, 2023, 8:38:16 AM (GMT)
+Last Updated: Monday, April 24th, 2023, 9:16:19 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
   
 <h3 align="left">Support:</h3>
