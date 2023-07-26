@@ -110,15 +110,15 @@ Documentation | Front End | Live Demo | Source Code
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [aaishikasb/HacksForHackers](https://github.com/aaishikasb/HacksForHackers)<br>
-2. ⬆️ Pushed 2 commit(s) to [aaishikasb/HacksForHackers](https://github.com/aaishikasb/HacksForHackers)<br>
-3. ⬆️ Pushed 1 commit(s) to [aaishikasb/HacksForHackers](https://github.com/aaishikasb/HacksForHackers)<br>
-4. ⬆️ Pushed 1 commit(s) to [cdhiraj40/envirocar-rasa-bot](https://github.com/cdhiraj40/envirocar-rasa-bot)<br>
-5. ⬆️ Pushed 1 commit(s) to [cdhiraj40/envirocar-rasa-bot](https://github.com/cdhiraj40/envirocar-rasa-bot)<br>
+1. 👍 Approved [#992](https://github.com/enviroCar/enviroCar-app/pull/992#pullrequestreview-1547610226) in [enviroCar/enviroCar-app](https://github.com/enviroCar/enviroCar-app)<br>
+2. ❌ Closed PR [#1](https://github.com/enviroCar/envirocar-rasa-bot/pull/1) in [enviroCar/envirocar-rasa-bot](https://github.com/enviroCar/envirocar-rasa-bot)<br>
+3. ❌ Closed PR [#5](https://github.com/enviroCar/envirocar-rasa-bot/pull/5) in [enviroCar/envirocar-rasa-bot](https://github.com/enviroCar/envirocar-rasa-bot)<br>
+4. ✔️ Closed issue [#3](https://github.com/enviroCar/envirocar-rasa-bot/issues/3) in [enviroCar/envirocar-rasa-bot](https://github.com/enviroCar/envirocar-rasa-bot)<br>
+5. ⬆️ Pushed 1 commit(s) to [aaishikasb/HacksForHackers](https://github.com/aaishikasb/HacksForHackers)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 26th, 2023, 11:36:57 AM (GMT)
+Last Updated: Wednesday, July 26th, 2023, 12:31:28 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
   
 <h3 align="left">Support:</h3>
