@@ -6,18 +6,18 @@
 # Hi, I'm Dhiraj Chauhan 👋
 
 ###  About me:
-Hello! I'm Dhiraj, a third-year CS student from India, a software developer who likes to build stuff that makes a difference in the world.
+Hello! I'm Dhiraj, a forth-year CS student from India, a software developer who likes to build stuff that makes a difference in the world.
 I usually work on **Android development**, **Web development**, and **Solana blockchain**.
 
 I believe in public learning, and I am constantly eager to learn new things and enjoy sharing what I have learned with others. I love interacting with folks and helping community members is what I like to do daily.
 
 I love to [speak](https://talks.cdhiraj40.dev/) and have conducted multiple sessions to encourage and mentor students toward **programming**, **open source**, and **building tech communities**.
 
-
+- 
 - **[Google Summer of Code Student](https://summerofcode.withgoogle.com/programs/2022/projects/xXN12jAU)** at [52°North](https://github.com/52North/). See the [project](https://github.com/enviroCar/enviroCar-app)
 - MLH Fellow Summer'22 at **[Solana Labs](https://github.com/solana-labs)**. See the [project](https://github.com/solana-developers/solana-grants/)
 - A [GitHub Campus Expert](https://githubcampus.expert/cdhiraj40/).
-- Co-founder of [Cerritus Coders](https://cerritus-coders.vercel.app/)
+<!--- - Co-founder of [Cerritus Coders](https://cerritus-coders.vercel.app/) -->
 <br/> <br/> You can connect with me: [links.cdhiraj40.dev](https://links.cdhiraj40.dev/)
 
 ### Important Links:
@@ -29,7 +29,7 @@ I love to [speak](https://talks.cdhiraj40.dev/) and have conducted multiple sess
 
 ### Skills:
 
-- **Mobile**: Android(Java & Kotlin)
+- **Mobile**: Android(Java & Kotlin), Jetpack Compose
 - **Web**: Next.js, React.js, HTML, CSS, JS
 - **Blockchain**: Solana
 - **Languages**: Kotlin, Java, Rust, JavaScript, TypeScript, Python, C/C++
