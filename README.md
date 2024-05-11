@@ -111,12 +111,10 @@ This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
 1. 📔 Created new repository [cdhiraj40/testing](https://github.com/cdhiraj40/testing)<br>
-2. ⭐ Starred [moonlight-stream/moonlight-android](https://github.com/moonlight-stream/moonlight-android)<br>
-3. ⭐ Starred [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 11th, 2024, 1:11:35 AM (GMT)
+Last Updated: Saturday, May 11th, 2024, 2:06:38 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
   
 <h3 align="left">Support:</h3>
