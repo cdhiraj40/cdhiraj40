@@ -13,7 +13,7 @@ I believe in public learning, and I am constantly eager to learn new things and 
 
 I love to [speak](https://talks.cdhiraj40.dev/) and have conducted multiple sessions to encourage and mentor students toward **programming**, **open source**, and **building tech communities**.
 
-- 
+- Building [Web3Shaga](https://shaga.xyz/) | Prev @[Airchat](https://www.air.chat/), [ironforgecloud](https://www.ironforge.cloud/) 
 - **[Google Summer of Code Student](https://summerofcode.withgoogle.com/programs/2022/projects/xXN12jAU)** at [52°North](https://github.com/52North/). See the [project](https://github.com/enviroCar/enviroCar-app)
 - MLH Fellow Summer'22 at **[Solana Labs](https://github.com/solana-labs)**. See the [project](https://github.com/solana-developers/solana-grants/)
 - A [GitHub Campus Expert](https://githubcampus.expert/cdhiraj40/).
