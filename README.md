@@ -110,10 +110,12 @@ Documentation | Front End | Live Demo | Source Code
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [espanso/espanso](https://github.com/espanso/espanso)<br>
+2. ⭐ Starred [iamvon/zk-compression-nextjs-actions](https://github.com/iamvon/zk-compression-nextjs-actions)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 4th, 2024, 2:44:07 PM (GMT)
+Last Updated: Wednesday, December 4th, 2024, 3:23:11 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
   
 <h3 align="left">Support:</h3>
