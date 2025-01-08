@@ -111,11 +111,10 @@ This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [espanso/espanso](https://github.com/espanso/espanso)<br>
-2. ⭐ Starred [iamvon/zk-compression-nextjs-actions](https://github.com/iamvon/zk-compression-nextjs-actions)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 8th, 2025, 4:41:24 AM (GMT)
+Last Updated: Wednesday, January 8th, 2025, 5:18:48 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
   
 <h3 align="left">Support:</h3>
